@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9e7b9ef7b46fa8f42ad4e0e8ed4b1e1d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MOMCAKE
+  fontNames:
+  - MOMCAKE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9012b65897218614faf1aca57f641e99, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

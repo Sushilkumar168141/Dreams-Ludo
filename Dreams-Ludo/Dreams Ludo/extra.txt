@@ -1,0 +1,50 @@
+To get list of  all  keys in  keystore file
+D:\users\SUSHIL\sushil\unity\installed\2018.3.3f1\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\OpenJDK\Windows\jre\bin>keytool -list -v -alias ludo -keystore "D:\users\SUSHIL\sushil\internships\believable\Work done\Dreams Ludo  no change\Dreams-Ludo\Dreams Ludo\Dreams Ludo\user.keystore"
+
+
+To get keyhash of release key
+D:\users\SUSHIL\sushil\unity\installed\2018.3.3f1\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\OpenJDK\Windows\jre\bin>keytool -exportcert -alias ludo -keystore "D:\users\SUSHIL\sushil\internships\believable\Work done\Dreams Ludo  no change\Dreams-Ludo\Dreams Ludo\Dreams Ludo" | D:\users\SUSHIL\sushil\tools\openssl\installed\openssl-0.9.8k_WIN32\bin\openssl sha1 -binary | D:\users\SUSHIL\sushil\tools\openssl\installed\openssl-0.9.8k_WIN32\bin\openssl base64
+
+To get keyhash of debug key
+D:\users\SUSHIL\sushil\unity\installed\2018.3.3f1\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\OpenJDK\Windows\jre\bin>keytool -exportcert -alias androiddebugkey -keystore "D:\users\SUSHIL\sushil\internships\believable\Work done\Dreams Ludo  no change\Dreams-Ludo\Dreams Ludo\Dreams Ludo\user.keystoe" | D:\users\SUSHIL\sushil\tools\openssl\installed\openssl-0.9.8k_WIN32\bin\openssl sha1 -binary | D:\users\SUSHIL\sushil\tools\openssl\installed\openssl-0.9.8k_WIN32\bin\openssl base64
+
+
+
+
+
+
+
+
+
+
+
+220185902973539
+
+210525121534Z↑☼20710513121534Z0
+
+d/HK330lbMPTNtbwOYJRCrwVhmY=
+
+
+
+TyUGWJff6PRHw1uTIvFAeeeKEqI=
+
+
+MtFl2rf47awTjWFnWdaLF4Pzv18=
+
+
+m0Nj5g5/LmEUezBzLcSF78U1uz0=
+
+
+3GxaqrSFp6gV8MExNjPW2TWXuKU=
+
+
+
+9CUSh8Xt8631RIJKCquj4pbyNTg=
+
+
+
+pnI1qP4O5sgk/TiYWDaWhHFI75M=
+
+3GxaqrSFp6gV8MExNjPW2TWXuKU=
+
+F04T7RJ0+CgOH16soPLe6L50hRA=
